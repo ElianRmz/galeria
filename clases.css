@@ -1,0 +1,17 @@
+h1{
+    text-align: left;
+}
+.flex-container {
+    display: flex;
+    flex-wrap: wrap-reverse;
+  }
+  .flex-container2{
+    display: flexbox;
+    text-align: left;
+     justify-content:space-between;
+  }
+  .flexbox{
+    display: flex;
+    flex-flow:column wrap;    
+  }
+  
